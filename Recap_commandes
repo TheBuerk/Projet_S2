@@ -24,7 +24,7 @@ $ git push
 $ git clone {URL} [Nom personnalisé] : Permet de récupérer un dépôt
 $ git status 	: Permet de connaitre ce qui est add, prêt à push, etc.
 $ git ls-files 	: Liste des fichiers/dossiers présents sur le dépôt
-$ git pull		: Actualise les fichiers en local (Attention à ne pas le faire sans avoir push auparavant, au risque de perdre ses modifications)
+$ git pull		  : Actualise les fichiers en local (Attention à ne pas le faire sans avoir push auparavant, au risque de perdre ses modifications)
 
 ###############
 ### WARNING ###
