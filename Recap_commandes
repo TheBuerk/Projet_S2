@@ -2,10 +2,10 @@
 ### ENVOIE DE FICHIER ###
 #########################
 
-Entrer les commandes suivantes dans l'ordre :
+Entrer les commandes suivantes :
 
 $ git add {Fichier/Dossier}
-$ git commit -m "Message indiquant la modification/l'ajout"
+$ git commit -m "Message indiquant la modification, l'ajout"
 $ git push [origin master]
 
 
