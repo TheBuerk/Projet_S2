@@ -26,6 +26,8 @@ $ git status 	: Permet de connaitre ce qui est add, prêt à push, etc.
 $ git ls-files 	: Liste des fichiers/dossiers présents sur le dépôt
 $ git pull	: Actualise les fichiers en local (Attention à ne pas le faire sans avoir push auparavant, au risque de perdre ses modifications)
 
+Pour créer un nouvelle branche, suivre ce "tuto" : http://alx.github.io/gitbook/3_usage_basique_des_branches_et_des_merges.html
+
 ###############
 ### WARNING ###
 ###############
